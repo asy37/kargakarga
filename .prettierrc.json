@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ],
+  "arrowParents": "always",
+  "bracketSpacing": true,
+  "embeddedLanguageFormatting": "auto",
+  "jsxBracketSameLine": true,
+  "printWidth": 120,
+  "tabWidth": 2
+}
